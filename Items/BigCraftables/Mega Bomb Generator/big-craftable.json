@@ -1,0 +1,27 @@
+{
+  "Name": "Mega Bomb Generator",
+  "Description": "Generates Mega Bombs",
+  "Price": 1,
+  "ProvidesLight": false,
+  "ReserveExtraIndexCount": 7,
+  "CanPurchase": false,
+  "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 98,
+                "Count": 1
+            },
+            {
+                "Object": 336,
+                "Count": 10
+            }
+        ],
+        "CanPurchase": false,
+        "IsDefault": true
+    },
+	  "NameLocalization":
+ { "zh": "超级炸弹生产机", },
+ "DescriptionLocalization":
+ { "zh": "生产超级炸弹。", }
+}

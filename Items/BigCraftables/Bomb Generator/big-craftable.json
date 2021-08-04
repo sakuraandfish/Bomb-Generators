@@ -1,0 +1,27 @@
+{
+  "Name": "Bomb Generator",
+  "Description": "Generates Bombs",
+  "Price": 1,
+  "ProvidesLight": false,
+  "ReserveExtraIndexCount": 7,
+  "CanPurchase": false,
+  "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 97,
+                "Count": 1
+            },
+            {
+                "Object": 335,
+                "Count": 10
+            }
+        ],
+        "CanPurchase": false,
+        "IsDefault": true
+    },
+	  "NameLocalization":
+ { "zh": "炸弹生产机", },
+ "DescriptionLocalization":
+ { "zh": "生产炸弹。", }
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "Cherry Bomb Generator",
+  "Description": "Generates Cherry Bombs",
+  "Price": 1,
+  "ProvidesLight": false,
+  "ReserveExtraIndexCount": 7,
+  "CanPurchase": false,
+  "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 96,
+                "Count": 1
+            },
+            {
+                "Object": 334,
+                "Count": 10
+            }
+        ],
+        "CanPurchase": false,
+        "IsDefault": true
+    },
+	  "NameLocalization":
+ { "zh": "樱桃炸弹生产机", },
+ "DescriptionLocalization":
+ { "zh": "生产樱桃炸弹。", }
+}
